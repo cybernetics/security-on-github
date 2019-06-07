@@ -1,4 +1,7 @@
 # Octocat Game
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cybernetics/security-on-github.svg)](https://greenkeeper.io/)
+
 Test your memory.
 
 All the images from https://octodex.github.com/.
